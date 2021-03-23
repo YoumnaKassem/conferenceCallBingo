@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/conferenceCallBingo/static/css/main.34e8cc9a.chunk.css",
+    "main.js": "/conferenceCallBingo/static/js/main.96764fae.chunk.js",
+    "main.js.map": "/conferenceCallBingo/static/js/main.96764fae.chunk.js.map",
+    "runtime-main.js": "/conferenceCallBingo/static/js/runtime-main.52c5ccf6.js",
+    "runtime-main.js.map": "/conferenceCallBingo/static/js/runtime-main.52c5ccf6.js.map",
+    "static/css/2.fe359a49.chunk.css": "/conferenceCallBingo/static/css/2.fe359a49.chunk.css",
+    "static/js/2.d6fac7c3.chunk.js": "/conferenceCallBingo/static/js/2.d6fac7c3.chunk.js",
+    "static/js/2.d6fac7c3.chunk.js.map": "/conferenceCallBingo/static/js/2.d6fac7c3.chunk.js.map",
+    "static/js/3.5949fdac.chunk.js": "/conferenceCallBingo/static/js/3.5949fdac.chunk.js",
+    "static/js/3.5949fdac.chunk.js.map": "/conferenceCallBingo/static/js/3.5949fdac.chunk.js.map",
+    "index.html": "/conferenceCallBingo/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/conferenceCallBingo/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.34e8cc9a.chunk.css.map": "/conferenceCallBingo/static/css/main.34e8cc9a.chunk.css.map",
+    "static/js/2.d6fac7c3.chunk.js.LICENSE.txt": "/conferenceCallBingo/static/js/2.d6fac7c3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52c5ccf6.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.d6fac7c3.chunk.js",
+    "static/css/main.34e8cc9a.chunk.css",
+    "static/js/main.96764fae.chunk.js"
+  ]
+}
